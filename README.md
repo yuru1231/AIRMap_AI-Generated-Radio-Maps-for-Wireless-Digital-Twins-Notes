@@ -4,12 +4,11 @@
 # AIRMap — AI-Generated Radio Maps for Wireless Digital Twins  
 閱讀與查核筆記（面試用）
 
-作者：Luo Wen-Jun（羅文均）  
+作者：Lo Wen-Chun（羅文均）  
 論文來源：arXiv:2511.05522v1  
 GitHub 紀錄目的：
 - 紀錄自己研讀論文的規劃方式與執行歷程
 - 梳理每個查核點的關鍵知識與待解決問題
-- 作為面試簡報時的「後台筆記」，用來佐證自己的理解與觀點
 
 ---
 
@@ -281,17 +280,7 @@ GitHub 紀錄目的：
 
 以下是我目前初步有興趣的方向：
 
-1.**題目 C：Digital Twin 的「自我校正機制」**  
-   - 研究 online/continual learning，用少量 live measurement 持續修正 AIRMap 模型。  
-   - 探索如何在不中斷服務的情況下做模型更新（例如在 non-RT 平面上輪替模型）。
 
-2. **題目 B：擴展 AIRMap 到 NTN/LEO 通訊**  
-   - 將地面 elevation map + LEO 軌道資訊作為多通道輸入，預測時間變化的 radio map。  
-   - 探討多普勒、hand-over 頻率對 digital twin 模型的影響。 
-
-3. **題目 A：AIRMap + O-RAN RIC 的即時 beam/resource control**  
-   - 利用 AIRMap 提供的快速 radio map，作為 state，搭配 RL/DRL（如 DQN、PPO）設計 beam selection 或 power control 的策略。  
-   - 工具：Sionna SYS + PyTorch RL library。  
  
 
   
