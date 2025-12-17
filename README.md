@@ -5,7 +5,7 @@
 閱讀與查核筆記（面試用）
 
 作者：Lo Wen-Chun（羅文均）  
-論文來源：arXiv:2511.05522v1  
+論文來源：[arXiv:2511.05522v1  ](https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=WzLpSRkAAAAJ&sortby=pubdate&citation_for_view=WzLpSRkAAAAJ:5Klqo5HVOaoC)
 GitHub 紀錄目的：
 - 紀錄自己研讀論文的規劃方式與執行歷程
 - 梳理每個查核點的關鍵知識與待解決問題
