@@ -210,3 +210,5 @@
   - continual learning
   - digital twin model
 
+
+##https://www.canva.com/design/DAG8JU0OnWo/XCMGpYY-ai2wXiXFZ8fK9Q/edit?utm_content=DAG8JU0OnWo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
